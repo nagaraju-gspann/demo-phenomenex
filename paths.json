@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/demo-phenomenex/:/",
+    "/content/demo-phenomenex/configuration:/.helix/config.json",
+    "/content/demo-phenomenex/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/demo-phenomenex/"
   ]
 }
